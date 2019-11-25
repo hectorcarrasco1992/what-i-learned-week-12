@@ -27,4 +27,12 @@ My biggest take away from this week was that event.target is a hard concept to g
 
 ``` 
 
-    
+   this was the hardest part of my week. The goal here was to make a limited version of the famous ms pain app. What had me stumped was the use of event.target on functions. i do not get it conceptually. 
+
+   ```
+
+![paint](Screen&#32;Shot&#32;2019-11-24&#32;at&#32;7.30.12&#32;PM.png)
+
+# Code Wars  the battles never stop
+
+more code wars
